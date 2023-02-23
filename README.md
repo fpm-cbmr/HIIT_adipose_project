@@ -2,7 +2,7 @@ TODO: Add more to the title of your project here
 
 # HIIT_adipose_project:
 
-TODO: Give a brief description of what your project is about
+TODO: Give a brief description of what your project is abouth
 
 This project...
 
