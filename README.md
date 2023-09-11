@@ -2,9 +2,8 @@ TODO: Add more to the title of your project here
 
 # HIIT_adipose_project:
 
-TODO: Give a brief description of what your project is abouth
-
-This project...
+This is the release for the published paper: "High-throughput proteomics uncovers exercise training and type 2 diabetes-induced changes in human white adipose tissue"
+[![DOI](https://zenodo.org/badge/689941894.svg)](https://zenodo.org/badge/latestdoi/689941894)
 
 # Brief description of folder and file contents
 
